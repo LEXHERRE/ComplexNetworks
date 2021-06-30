@@ -1,0 +1,8 @@
+graph graphname {
+  a [pos = "1,1!"]
+
+  b [pos = "0,0!"]
+
+  c [pos = "2,0!"]
+
+}
